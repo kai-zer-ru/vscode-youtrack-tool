@@ -1,2 +1,2 @@
-# vscode-task-tool
-Tasks integration for vscode `YouTrack`, `JiRa`
+# vscode-youtrack-tool
+Tasks integration for vscode `YouTrack`
